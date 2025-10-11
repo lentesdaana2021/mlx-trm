@@ -1,3 +1,5 @@
+import math
+
 import numpy as np
 from mlx.data.datasets import load_cifar10, load_mnist
 
@@ -17,7 +19,7 @@ def mnist(batch_size, img_size=(28, 28), root=None):
         .key_transform("image", normalize)
         .batch(len(train) if full_batch else batch_size)
     )
-    # if not full_batch:
+    # if not full_batch: # non-deterministic
     #     tr_iter = tr_iter.prefetch(4, 4)
 
     # iterator over test set
@@ -28,7 +30,14 @@ def mnist(batch_size, img_size=(28, 28), root=None):
         .key_transform("image", normalize)
         .batch(len(test) if full_batch else batch_size)
     )
-    return tr_iter, test_iter
+    meta = {
+        "n_train": len(train),
+        "n_test": len(test),
+        "steps_per_epoch": (
+            1 if batch_size == -1 else math.ceil(len(train) / batch_size)
+        ),
+    }
+    return tr_iter, test_iter, meta
 
 
 def cifar10(batch_size, img_size=(32, 32), root=None):
@@ -51,7 +60,7 @@ def cifar10(batch_size, img_size=(32, 32), root=None):
         .key_transform("image", normalize)
         .batch(len(train) if full_batch else batch_size)
     )
-    # if not full_batch:
+    # if not full_batch: # non-deterministic
     #     tr_iter = tr_iter.prefetch(4, 4)
 
     # iterator over test set
@@ -62,13 +71,19 @@ def cifar10(batch_size, img_size=(32, 32), root=None):
         .key_transform("image", normalize)
         .batch(len(test) if full_batch else batch_size)
     )
-
-    return tr_iter, test_iter
+    meta = {
+        "n_train": len(train),
+        "n_test": len(test),
+        "steps_per_epoch": (
+            1 if batch_size == -1 else math.ceil(len(train) / batch_size)
+        ),
+    }
+    return tr_iter, test_iter, meta
 
 
 if __name__ == "__main__":
     batch_size, img_size = 32, (28, 28)
-    tr_iter, test_iter = mnist(batch_size=batch_size, img_size=img_size)
+    tr_iter, test_iter, meta = mnist(batch_size=batch_size, img_size=img_size)
 
     B, H, W, C = batch_size, img_size[0], img_size[1], 1
     print(f"Batch size: {B}, Channels: {C}, Height: {H}, Width: {W}")
@@ -79,5 +94,4 @@ if __name__ == "__main__":
 
     batch_test_iter = next(test_iter)
     assert batch_test_iter["image"].shape == (B, H, W, C), "Wrong training set size"
-    assert batch_test_iter["label"].shape == (batch_size,), "Wrong training set size"
     assert batch_test_iter["label"].shape == (batch_size,), "Wrong training set size"
