@@ -16,9 +16,9 @@ class ModelConfig:
     patch_size: tuple
     n_outputs: int
     pool: str = "cls"
-    n: int = 4  # latent steps
-    T: int = 2  # deep steps
-    halt_max_steps: int = 6  # maximum supervision steps
+    n: int = 6  # latent steps
+    T: int = 3  # deep steps
+    halt_max_steps: int = 8  # maximum supervision steps
     halt_exploration_prob: float = 0.2  # exploratory q probability
     halt_follow_q: bool = True  # follow q (True) or max steps (False)
 
